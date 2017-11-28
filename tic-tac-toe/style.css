@@ -1,0 +1,15 @@
+table td {
+  height: 50px;
+  width: 50px;
+  border: 1px solid #000;
+}
+.processed {
+  text-align: center;
+  font-size: 40px;
+}
+.processed-by-x {
+  color: red;
+}
+.processed-by-0 {
+  color: green;
+}
